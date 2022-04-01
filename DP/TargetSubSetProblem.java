@@ -47,6 +47,7 @@ public class TargetSubSetProblem {
                     dp[i][j] = true;
 
                 }
+                //check
 
 
              }
